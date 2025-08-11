@@ -1,7 +1,6 @@
 alpine-l2tp-vpn-client
 ---
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/wuamin/alpine-l2tp-vpn-client)
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/wuamin/alpine-l2tp-vpn-client)
+[![Docker](https://github.com/itsokto/alpine-l2tp-vpn-client/actions/workflows/docker-image.yml/badge.svg)](https://github.com/itsokto/alpine-l2tp-vpn-client/actions/workflows/docker-image.yml)
 [![](https://images.microbadger.com/badges/image/wuamin/alpine-l2tp-vpn-client.svg)](https://microbadger.com/images/wuamin/alpine-l2tp-vpn-client "Get your own image badge on microbadger.com")
 [![](https://images.microbadger.com/badges/version/wuamin/alpine-l2tp-vpn-client.svg)](https://microbadger.com/images/wuamin/alpine-l2tp-vpn-client "Get your own version badge on microbadger.com")
 ![GitHub](https://img.shields.io/github/license/wuamin/alpine-l2tp-vpn-client)
